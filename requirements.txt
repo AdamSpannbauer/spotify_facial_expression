@@ -1,0 +1,7 @@
+nb_black
+jupyter
+pandas
+numpy
+seaborn
+matplotlib
+plotly
