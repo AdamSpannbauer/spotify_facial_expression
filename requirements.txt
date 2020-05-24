@@ -6,3 +6,4 @@ numpy
 seaborn
 matplotlib
 plotly
+spotipy
